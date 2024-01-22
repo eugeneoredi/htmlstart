@@ -1,0 +1,31 @@
+.fruits{
+    border: 3px solid #0050ff;
+    text-align: center;
+    font-family: Timmana;
+    background-image: url("Images/apple.jpeg");
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+.cars{
+    border: 5px solid black;
+    text-align: center;
+    font-family: "Century Schoolbook L";
+    background-image: url("Images/Gt86.jpeg");
+    font-size: 20px;
+
+}
+.FRUITS{
+    border: 5px solid mediumvioletred;
+    text-align: right;
+    font-family: "Bitstream Charter";
+    background-image: url("Images/mangoe.jpeg");
+    font-size: 25px;
+}
+ #computers{
+     border: 7px solid grey;
+     text-align: center;
+     font-family: "Century Schoolbook L";
+     background-color: lightyellow;
+     padding: 30px;
+ }

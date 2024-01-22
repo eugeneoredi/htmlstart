@@ -1,0 +1,23 @@
+table{
+    width: 120;
+    border-collapse: collapse;
+    margin: 20px;
+
+}
+td,th{
+    border: 5px solid #44ffc7;
+    padding: 15px;
+}
+tr:nth-child(even){
+    background-color: gold;
+}
+th{
+    color: red;
+    font-family: "Roboto Light";
+    background: sandybrown;
+}
+h2{
+    text-align: center;
+    color: indigo;
+    font-size: 45px;
+}

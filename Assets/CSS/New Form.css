@@ -1,0 +1,50 @@
+#form\.container{
+ background-color: lightcoral;
+    padding: 20px;
+    border-radius: 7px;
+    box-shadow: #004bf6 9px;
+    border-radius: 30px;
+}
+body{
+    font-family: "Century Schoolbook L";
+    background-color: skyblue;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 150vh;
+}
+input {
+    padding: 6px;
+    font-family: "Century Schoolbook L";
+    border: 3px solid black;
+    background-color: whitesmoke;
+    break-after: right;
+    font-size: 15px;
+    align-content: center;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.form-group{
+    margin: 2px;
+}
+label{
+    width: 100px;
+    break-after: right;
+display: inline-block;
+}
+button  {
+    background-color: black;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    border: black;
+    font-family: Chilanka;
+    font-size: 15px;
+}
+h2  {
+    align-content: center;
+    text-align: center;
+    font-size: 30px;
+}

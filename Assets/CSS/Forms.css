@@ -1,0 +1,49 @@
+label{
+    padding: 12px;
+    font-family: "Century Schoolbook L";
+    border: 3px solid black;
+    background-color: lightyellow;
+    break-after: right;
+    font-size: 20px;
+    display: inline-block;
+    width: 215px;
+    border-radius: 15px;
+}
+input   {
+      padding: 12px;
+    font-family: "Century Schoolbook L";
+    border: 3px solid black;
+    background-color: lightblue;
+    break-after: right;
+    font-size: 20px;
+    align-content: center;
+    margin-right: auto;
+    border-radius: 15px;
+
+select{
+    border: 2px solid black;
+    border-radius: 4px;
+    font-family: Chilanka;
+}
+#form\.container{
+ background-color: lightcoral;
+    padding: 20px;
+    border-radius: 7px;
+    box-shadow: #004bf6 9px;
+    border-radius: 14px;
+}
+
+
+
+
+
+
+}
+body{
+    background-image: url("Images/stuff.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2  {
+    color: fuchsia;
+}
